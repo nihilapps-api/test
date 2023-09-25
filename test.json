@@ -1,4 +1,5 @@
 {
   "test": "test.json",
-  "edit": true
+  "edit": true,
+  "moreTest": "test"
 }
